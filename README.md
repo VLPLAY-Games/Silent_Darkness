@@ -9,3 +9,9 @@ Silent Darkness is an exciting puzzle game with elements of survival and horror 
 Android version:
 Gamepad control only
 Snapdragon 850 + recommended 
+
+
+
+
+
+https://vl-play.itch.io/silent-darkness
